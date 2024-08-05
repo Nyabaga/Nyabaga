@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Abigael Nyatichi 
 - 👀 I’m interested in data science 
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on R projects
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me nyabagaabby@gmail.com 
 
 <!---
